@@ -1,0 +1,6 @@
+theme: jekyll-theme-cayman
+title: NuclearOQS2020
+description: Learning material for the Nuclear TALENT course Atomic Nuclei as Open Quantum Systems: Unifying Nuclear Structure and Reactions, held at the INT in Seattle, WA, June 22 to July 10, 2020.
+markdown: kramdown
+mathjax: true
+future: true
