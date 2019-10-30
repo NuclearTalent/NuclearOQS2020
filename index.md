@@ -1,5 +1,4 @@
 [TEST, THIS PAGE IS NOT EXPECTED TO BE CORRECT]
-[TEST, THIS PAGE IS NOT EXPECTED TO BE CORRECT]
 
 # Training in Advanced Low-Energy Nuclear Theory
 ### Course 8. Atomic Nuclei as Open Quantum Systems: Unifying Nuclear Structure and Reactions
@@ -22,11 +21,11 @@ The following topics will be covered:
 ...  
 
 Schedule of the lecture weeks:
-* [Week 1](topics/schedule_week1.md)  
-* [Week 2](topics/schedule_week2.md)  
-* [Week 3](topics/schedule_week3.md)
+* [Week 1](schedule_week1.md)  
+* [Week 2](schedule_week2.md)  
+* [Week 3](schedule_week3.md)
 
-The material of the exercise groups can be found [here](topics/exercises.md).  
+The material of the exercise groups can be found [here](exercises.md).  
 
 
 ## Teachers and local organization
