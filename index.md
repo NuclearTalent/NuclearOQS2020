@@ -1,3 +1,9 @@
+---
+layout: default
+future: true
+---
+
+
 [TEST, THIS PAGE IS NOT EXPECTED TO BE CORRECT]
 [TEST, THIS PAGE IS NOT EXPECTED TO BE CORRECT]
 
