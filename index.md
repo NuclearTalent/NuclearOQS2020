@@ -1,6 +1,6 @@
 # Training in Advanced Low-Energy Nuclear Theory
 ### Course 8. Atomic Nuclei as Open Quantum Systems: Unifying Nuclear Structure and Reactions
-INT, WA, June 22 to July 10, 2020
+Institute for Nuclear Theory (INT) at the University of Washington, Seattle, WA, June 22 to July 10, 2020
 
 
 ### Brief description
