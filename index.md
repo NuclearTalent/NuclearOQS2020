@@ -10,7 +10,7 @@ In this course, students will learn about the fundamental concepts pertaining to
 ### Lecturers: 
 - Christian Forssén, Chalmers University of Technology, Sweden
 - Witek Nazarewicz, Michigan State University, USA 
-- Marek Ploszajczak, GANIL, France  
+- Marek P&#322;oszajczak, GANIL, France  
 - Alexander Volya, Florida State University, USA (contact: volya@physics.fsu.edu)
 
 
