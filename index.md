@@ -7,10 +7,13 @@ Institute for Nuclear Theory (INT) at the University of Washington, Seattle, WA,
 In this course, students will learn about the fundamental concepts pertaining to the unification of nuclear structure and reaction theory and they will be introduced to state-of-the-art theoretical methods that can be used for weakly bound and unbound nuclear states.
 
 
-### Lecturers: 
+### Lecturers 
 - Christian Forssén, Chalmers University of Technology, Sweden
 - Witek Nazarewicz, Michigan State University, USA 
 - Marek P&#322;oszajczak, GANIL, France  
 - Alexander Volya, Florida State University, USA (contact: volya@physics.fsu.edu)
 
+### Apply
+
+Applications to the summer school can be submitted using this [link](https://www.mathprograms.org/db/programs/920).
 
