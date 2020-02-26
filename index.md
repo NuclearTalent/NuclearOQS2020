@@ -6,7 +6,8 @@ Institute for Nuclear Theory (INT) at the University of Washington, Seattle, WA,
 
 ## Brief description
 In this course, students will learn about the fundamental concepts pertaining to the unification of nuclear structure and reaction theory and they will be introduced to state-of-the-art theoretical methods that can be used for weakly bound and unbound nuclear states.
-The program of this TALENT school has a significant overlap with the scientific program at the Facility for Rare Isotope Beams (FRIB).  
+
+The program of this TALENT school has a significant overlap with the scientific program at the Facility for Rare Isotope Beams (FRIB) and will be accessible for participants with an experimental background. 
 
 ## Teachers and local organization
 
@@ -21,7 +22,7 @@ The program of this TALENT school has a significant overlap with the scientific 
 - Simin Wang, FRIB, Michigan State University, USA
 
 
-This [TALENT](https://fribtheoryalliance.org/TALENT/) school is made possible with generous funding from the Institute for Nuclear Theory [INT](https://sites.google.com/uw.edu/int/home) in Seattle, USA.
+This [TALENT](https://fribtheoryalliance.org/TALENT/) school is made possible with generous funding from the Institute for Nuclear Theory [INT](https://sites.google.com/uw.edu/int/home) in Seattle, USA and the Facility for Rare Isotope Beams ([FRIB](https://frib.msu.edu/)), USA.
 
 
 ## Daily schedule
