@@ -1,19 +1,51 @@
 # Training in Advanced Low-Energy Nuclear Theory
+
 ### Course 8. Atomic Nuclei as Open Quantum Systems: Unifying Nuclear Structure and Reactions
 Institute for Nuclear Theory (INT) at the University of Washington, Seattle, WA, June 22 to July 10, 2020
 
 
-### Brief description
+## Brief description
 In this course, students will learn about the fundamental concepts pertaining to the unification of nuclear structure and reaction theory and they will be introduced to state-of-the-art theoretical methods that can be used for weakly bound and unbound nuclear states.
+The program of this TALENT school has a significant overlap with the scientific program at the Facility for Rare Isotope Beams (FRIB).  
 
+## Teachers and local organization
 
-### Lecturers 
+### Lecturers: 
 - Christian Forssén, Chalmers University of Technology, Sweden
-- Witek Nazarewicz, Michigan State University, USA 
+- Witek Nazarewicz, FRIB, Michigan State University, USA 
 - Marek P&#322;oszajczak, GANIL, France  
 - Alexander Volya, Florida State University, USA (contact: volya@physics.fsu.edu)
 
-### Apply
+### Teaching facilitators
+- Kevin Fossez, FRIB, Michigan State University, and Argonne National Laboratory, USA
+- Simin Wang, FRIB, Michigan State University, USA
+
+
+This [TALENT](https://fribtheoryalliance.org/TALENT/) school is made possible with generous funding from the Institute for Nuclear Theory [INT](https://sites.google.com/uw.edu/int/home) in Seattle, USA.
+
+
+## Daily schedule
+There are two lectures every morning. Each lecture is approximately 2x40 min with a break in the middle.
+The afternoons will be devoted to exercise sessions with extra support from the two facilitators.
+Students will work on a mix of discussion questions, computer exercises and mini projects.
+Every day ends with a wrap-up discussion session.
+
+The organization of a typical course day is as follows:
+
+Time | Activity
+------------ | -------------
+9.00 - 10.30 | Lecture 1
+10.30 - 11.00 | Coffee break
+11.00 - 12.30 | Lecture 2
+12.30 - 14.00 | Lunch
+14.00 - 16.30 | Exercise session with afternoon coffee break
+16.30 - 17.30 | Wrap-up
+
+
+## General conditions
+As for previous TALENT schools, the lodging of participants will be covered. Moreover, lunches will be provided together with coffee breaks during week days. Participants will be free to explore Seattle during the weekends.
+
+## Apply
 
 Applications to the summer school can be submitted using this [link](https://www.mathprograms.org/db/programs/920).
 
