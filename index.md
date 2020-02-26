@@ -44,7 +44,7 @@ Time | Activity
 
 
 ## General conditions
-As for previous TALENT schools, the lodging of participants will be covered. Moreover, lunches will be provided together with coffee breaks during week days. Participants will be free to explore Seattle during the weekends.
+As for previous TALENT schools, the lodging of participants will be covered. Participants will be free to explore Seattle during the weekends. See the application link provided below for details.
 
 ## Apply
 
