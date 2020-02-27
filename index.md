@@ -8,15 +8,18 @@ Institute for Nuclear Theory (INT) at the University of Washington, Seattle, WA,
 ## Brief description
 In this course, students will learn about the fundamental concepts pertaining to the unification of nuclear structure and reaction theory and they will be introduced to state-of-the-art theoretical methods that can be used for weakly bound and unbound nuclear states.
 
-The program of this TALENT school has a significant overlap with the scientific program at the Facility for Rare Isotope Beams (FRIB) and will be accessible for participants with an experimental background. 
+The program of this TALENT school is very relevant to the current and envisioned research with rare isotopes. Experimentalists are encouraged to apply!
 
 ## Teachers and local organization
 
-### Lecturers: 
-- Christian Forssén, Chalmers University of Technology, Sweden
+### Lecturers/Organizers: 
+- Alexander Volya, Florida State University, USA (contact: volya@physics.fsu.edu)
 - Witek Nazarewicz, FRIB, Michigan State University, USA 
 - Marek P&#322;oszajczak, GANIL, France  
-- Alexander Volya, Florida State University, USA (contact: volya@physics.fsu.edu)
+- Kevin Fossez, FRIB, Michigan State University, and Argonne National Laboratory, USA
+
+### Remote organizer
+- Christian Forssén, Chalmers University of Technology, Sweden
 
 ### Teaching facilitators
 - Kevin Fossez, FRIB, Michigan State University, and Argonne National Laboratory, USA
@@ -45,7 +48,7 @@ Time | Activity
 
 
 ## General conditions
-As for previous TALENT schools, the lodging of participants will be covered. Participants will be free to explore Seattle during the weekends. See the application link provided below for details.
+As for previous TALENT schools, the lodging and board of students will be covered. Participants will be free to explore Seattle during the weekends. See the application link provided below for details.
 
 ## Apply
 
