@@ -54,4 +54,4 @@ As for previous TALENT schools, the lodging and board of students will be covere
 
 Applications to the summer school can be submitted using this [link](https://www.mathprograms.org/db/programs/920). 
 
-**IMPORTANT:** Due to uncertainties related to the coronavirus epidemic (COVID-19) the application deadline is extended to April 20, 2020.
+**IMPORTANT:** Due to uncertainties related to the coronavirus epidemic (COVID-19) the application deadline is extended to April 24, 2020.
