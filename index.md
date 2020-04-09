@@ -1,7 +1,9 @@
 # Training in Advanced Low-Energy Nuclear Theory
 
 ### Course 8. Atomic Nuclei as Open Quantum Systems: Unifying Nuclear Structure and Reactions
-Institute for Nuclear Theory (INT) at the University of Washington, Seattle, WA, June 22 to July 10, 2020
+Institute for Nuclear Theory (INT) at the University of Washington, Seattle, WA, June 22 to July 10, 2020.  
+
+**Due to the COVID-19 epidemic, the school has been cancelled. We are hoping to reschedule it in the next couple of years.**
 
 ![Seattle](img_Seattle.jpg)
 
@@ -52,6 +54,4 @@ As for previous TALENT schools, the lodging and board of students will be covere
 
 ## Apply
 
-Applications to the summer school can be submitted using this [link](https://www.mathprograms.org/db/programs/920). 
-
-**IMPORTANT:** Due to uncertainties related to the coronavirus epidemic (COVID-19) the application deadline is extended to April 24, 2020.
+Applications are currently closed.
