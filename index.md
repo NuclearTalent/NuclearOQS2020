@@ -3,7 +3,7 @@
 ### Course 8. Atomic Nuclei as Open Quantum Systems: Unifying Nuclear Structure and Reactions
 Institute for Nuclear Theory (INT) at the University of Washington, Seattle, WA, June 22 to July 10, 2020.  
 
-**Due to the COVID-19 epidemic, the school has been cancelled. We are hoping to reschedule it in the next couple of years.**
+**Due to the COVID-19 pandemic, the school has been cancelled. We are hoping to reschedule it in the next couple of years.**
 
 ![Seattle](img_Seattle.jpg)
 
